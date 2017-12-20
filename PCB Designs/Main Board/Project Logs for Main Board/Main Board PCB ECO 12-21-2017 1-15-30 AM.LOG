@@ -1,0 +1,64 @@
+Removed Pin From Net: NetName=DC_Direct_1 Pin=Centreal Kit-22
+Removed Pin From Net: NetName=DC_Direct_2 Pin=Centreal Kit-23
+Removed Pin From Net: NetName=DC_Direct_3 Pin=Centreal Kit-24
+Removed Pin From Net: NetName=DC_Direct_4 Pin=Centreal Kit-25
+Removed Pin From Net: NetName=DC_Direct_5 Pin=Centreal Kit-27
+Removed Pin From Net: NetName=DC_Direct_6 Pin=Centreal Kit-29
+Removed Pin From Net: NetName=DC_Direct_7 Pin=Centreal Kit-31
+Removed Pin From Net: NetName=DC_Direct_8 Pin=Centreal Kit-33
+Removed Pin From Net: NetName=DC_Direct_9 Pin=Centreal Kit-35
+Removed Pin From Net: NetName=DC_Direct_10 Pin=Centreal Kit-37
+Removed Pin From Net: NetName=DC_Direct_11 Pin=Centreal Kit-39
+Removed Pin From Net: NetName=DC_Direct_12 Pin=Centreal Kit-41
+Removed Pin From Net: NetName=VCC Pin=Q1-3
+Removed Pin From Net: NetName=VCC Pin=Q2-3
+Removed Pin From Net: NetName=VCC Pin=Q3-3
+Removed Pin From Net: NetName=VCC Pin=Q4-3
+Removed Pin From Net: NetName=GND Pin=U3-K
+Removed Pin From Net: NetName=GND Pin=U4-K
+Removed Pin From Net: NetName=GND Pin=U5-K
+Removed Pin From Net: NetName=GND Pin=U6-K
+Removed Member From Class: ClassName=Main Board Member=C5
+Removed Member From Class: ClassName=Main Board Member=C6
+Removed Member From Class: ClassName=Main Board Member=C7
+Removed Member From Class: ClassName=Main Board Member=C8
+Removed Member From Class: ClassName=Main Board Member=D1
+Removed Member From Class: ClassName=Main Board Member=D2
+Removed Member From Class: ClassName=Main Board Member=D3
+Removed Member From Class: ClassName=Main Board Member=D4
+Removed Member From Class: ClassName=Main Board Member=D5
+Removed Member From Class: ClassName=Main Board Member=D6
+Removed Member From Class: ClassName=Main Board Member=HD1
+Removed Member From Class: ClassName=Main Board Member=HD2
+Removed Member From Class: ClassName=Main Board Member=HD3
+Removed Member From Class: ClassName=Main Board Member=HD4
+Removed Member From Class: ClassName=Main Board Member=Power 12V
+Removed Member From Class: ClassName=Main Board Member=Power 24V
+Removed Member From Class: ClassName=Main Board Member=Q1
+Removed Member From Class: ClassName=Main Board Member=Q2
+Removed Member From Class: ClassName=Main Board Member=Q3
+Removed Member From Class: ClassName=Main Board Member=Q4
+Removed Member From Class: ClassName=Main Board Member=Q5
+Removed Member From Class: ClassName=Main Board Member=Q6
+Removed Member From Class: ClassName=Main Board Member=Relay 1
+Removed Member From Class: ClassName=Main Board Member=Relay 2
+Removed Member From Class: ClassName=Main Board Member=Relay 3
+Removed Member From Class: ClassName=Main Board Member=Relay 4
+Removed Member From Class: ClassName=Main Board Member=SW 12V
+Removed Member From Class: ClassName=Main Board Member=SW 24V
+Removed Member From Class: ClassName=Main Board Member=U3
+Removed Member From Class: ClassName=Main Board Member=U4
+Removed Member From Class: ClassName=Main Board Member=U5
+Removed Member From Class: ClassName=Main Board Member=U6
+Added Pin To Net: NetName=DC_Direct_1 Pin=Centreal Kit-23
+Added Pin To Net: NetName=DC_Direct_2 Pin=Centreal Kit-25
+Added Pin To Net: NetName=DC_Direct_3 Pin=Centreal Kit-27
+Added Pin To Net: NetName=DC_Direct_4 Pin=Centreal Kit-29
+Added Pin To Net: NetName=DC_Direct_5 Pin=Centreal Kit-31
+Added Pin To Net: NetName=DC_Direct_6 Pin=Centreal Kit-33
+Added Pin To Net: NetName=DC_Direct_7 Pin=Centreal Kit-35
+Added Pin To Net: NetName=DC_Direct_8 Pin=Centreal Kit-37
+Added Pin To Net: NetName=DC_Direct_9 Pin=Centreal Kit-39
+Added Pin To Net: NetName=DC_Direct_10 Pin=Centreal Kit-41
+Added Pin To Net: NetName=DC_Direct_11 Pin=Centreal Kit-43
+Added Pin To Net: NetName=DC_Direct_12 Pin=Centreal Kit-45

@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GND Pin=R11-2
+Removed Pin From Net: NetName=GND Pin=R23-1
+Removed Pin From Net: NetName=VCC Pin=Reset ALL-1
+Removed Pin From Net: NetName=VCC Pin=SW3-1
+Removed Member From Class: ClassName=Main Board Member=R11
+Removed Member From Class: ClassName=Main Board Member=R23
+Removed Member From Class: ClassName=Main Board Member=Reset ALL
+Removed Member From Class: ClassName=Main Board Member=SW3

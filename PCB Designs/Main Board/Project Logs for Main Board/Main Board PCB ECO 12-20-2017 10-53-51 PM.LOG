@@ -1,0 +1,24 @@
+Change Component Designator: OldDesignator=Led 1 NewDesignator=Following 1
+Change Component Designator: OldDesignator=Led 2 NewDesignator=Following 2
+Change Component Designator: OldDesignator=Led 3 NewDesignator=Following 3
+Change Component Designator: OldDesignator=Led 4 NewDesignator=Following 4
+Change Component Designator: OldDesignator=Led 5 NewDesignator=Following 5
+Change Component Designator: OldDesignator=Led 6 NewDesignator=Following 6
+Change Component Designator: OldDesignator=Led 7 NewDesignator=Following 7
+Change Component Designator: OldDesignator=Led 8 NewDesignator=Following 8
+Change Component Designator: OldDesignator=R1 NewDesignator=R Following 1
+Change Component Designator: OldDesignator=R2 NewDesignator=R Following 2
+Change Component Designator: OldDesignator=R3 NewDesignator=R Following 3
+Change Component Designator: OldDesignator=R4 NewDesignator=R Following 4
+Change Component Designator: OldDesignator=R5 NewDesignator=R Following 5
+Change Component Designator: OldDesignator=R6 NewDesignator=R Following 6
+Change Component Designator: OldDesignator=R7 NewDesignator=R Following 7
+Change Component Designator: OldDesignator=R8 NewDesignator=R Following 8
+Change Net Name : Old Net Name=NetLed 1_1 New Net Name=NetFollowing 1_1
+Change Net Name : Old Net Name=NetLed 2_1 New Net Name=NetFollowing 2_1
+Change Net Name : Old Net Name=NetLed 3_1 New Net Name=NetFollowing 3_1
+Change Net Name : Old Net Name=NetLed 4_1 New Net Name=NetFollowing 4_1
+Change Net Name : Old Net Name=NetLed 5_1 New Net Name=NetFollowing 5_1
+Change Net Name : Old Net Name=NetLed 6_1 New Net Name=NetFollowing 6_1
+Change Net Name : Old Net Name=NetLed 7_1 New Net Name=NetFollowing 7_1
+Change Net Name : Old Net Name=NetLed 8_1 New Net Name=NetFollowing 8_1

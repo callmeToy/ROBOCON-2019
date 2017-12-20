@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=DC_Direct_7 Pin=Centreal Kit-28
+Removed Pin From Net: NetName=DC_Direct_8 Pin=Centreal Kit-29
+Removed Pin From Net: NetName=DC_Direct_9 Pin=Centreal Kit-30
+Removed Pin From Net: NetName=DC_Direct_10 Pin=Centreal Kit-31
+Removed Pin From Net: NetName=DC_Direct_11 Pin=Centreal Kit-32
+Removed Pin From Net: NetName=DC_Direct_12 Pin=Centreal Kit-33
+Removed Pin From Net: NetName=RS_Pin Pin=Centreal Kit-35
+Removed Pin From Net: NetName=EN_Pin Pin=Centreal Kit-37
+Removed Pin From Net: NetName=D4_Pin Pin=Centreal Kit-39
+Removed Pin From Net: NetName=D5_Pin Pin=Centreal Kit-41
+Removed Pin From Net: NetName=D6_Pin Pin=Centreal Kit-43
+Removed Pin From Net: NetName=D7_Pin Pin=Centreal Kit-45
+Removed Pin From Net: NetName=Relay 1 Pin=Centreal Kit-46
+Removed Pin From Net: NetName=Relay 2 Pin=Centreal Kit-47
+Removed Pin From Net: NetName=Relay 3 Pin=Centreal Kit-48
+Added Pin To Net: NetName=RS_Pin Pin=Centreal Kit-28
+Added Pin To Net: NetName=DC_Direct_7 Pin=Centreal Kit-29
+Added Pin To Net: NetName=EN_Pin Pin=Centreal Kit-30
+Added Pin To Net: NetName=DC_Direct_8 Pin=Centreal Kit-31
+Added Pin To Net: NetName=D4_Pin Pin=Centreal Kit-32
+Added Pin To Net: NetName=DC_Direct_9 Pin=Centreal Kit-33
+Added Pin To Net: NetName=D5_Pin Pin=Centreal Kit-34
+Added Pin To Net: NetName=DC_Direct_10 Pin=Centreal Kit-35
+Added Pin To Net: NetName=D6_Pin Pin=Centreal Kit-36
+Added Pin To Net: NetName=DC_Direct_11 Pin=Centreal Kit-37
+Added Pin To Net: NetName=D7_Pin Pin=Centreal Kit-38
+Added Pin To Net: NetName=DC_Direct_12 Pin=Centreal Kit-39
+Added Pin To Net: NetName=Relay 1 Pin=Centreal Kit-43
+Added Pin To Net: NetName=Relay 2 Pin=Centreal Kit-45
+Added Pin To Net: NetName=Relay 3 Pin=Centreal Kit-47

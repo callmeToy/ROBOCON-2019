@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=DC_Pulse_12 Pin=DC7-4
+Removed Pin From Net: NetName=DC_Pulse_11 Pin=DC8-4
+Removed Pin From Net: NetName=DC_Pulse_10 Pin=DC9-4
+Removed Pin From Net: NetName=DC_Pulse_9 Pin=DC10-4
+Removed Pin From Net: NetName=DC_Pulse_8 Pin=DC11-4
+Removed Pin From Net: NetName=DC_Pulse_7 Pin=DC12-4
+Added Pin To Net: NetName=DC_Pulse_7 Pin=DC7-4
+Added Pin To Net: NetName=DC_Pulse_8 Pin=DC8-4
+Added Pin To Net: NetName=DC_Pulse_9 Pin=DC9-4
+Added Pin To Net: NetName=DC_Pulse_10 Pin=DC10-4
+Added Pin To Net: NetName=DC_Pulse_11 Pin=DC11-4
+Added Pin To Net: NetName=DC_Pulse_12 Pin=DC12-4

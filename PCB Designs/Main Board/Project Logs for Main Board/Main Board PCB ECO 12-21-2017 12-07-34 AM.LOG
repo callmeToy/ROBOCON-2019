@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=RS_Pin Pin=Centreal Kit-34
+Removed Pin From Net: NetName=EN_Pin Pin=Centreal Kit-35
+Removed Pin From Net: NetName=D4_Pin Pin=Centreal Kit-36
+Removed Pin From Net: NetName=D5_Pin Pin=Centreal Kit-37
+Removed Pin From Net: NetName=D6_Pin Pin=Centreal Kit-38
+Removed Pin From Net: NetName=D7_Pin Pin=Centreal Kit-39
+Removed Pin From Net: NetName=Relay 1 Pin=Centreal Kit-40
+Removed Pin From Net: NetName=Relay 2 Pin=Centreal Kit-41
+Removed Pin From Net: NetName=Relay 3 Pin=Centreal Kit-42
+Removed Pin From Net: NetName=Relay 4 Pin=Centreal Kit-43
+Added Pin To Net: NetName=RS_Pin Pin=Centreal Kit-35
+Added Pin To Net: NetName=EN_Pin Pin=Centreal Kit-37
+Added Pin To Net: NetName=D4_Pin Pin=Centreal Kit-39
+Added Pin To Net: NetName=D5_Pin Pin=Centreal Kit-41
+Added Pin To Net: NetName=D6_Pin Pin=Centreal Kit-43
+Added Pin To Net: NetName=D7_Pin Pin=Centreal Kit-45
+Added Pin To Net: NetName=Relay 1 Pin=Centreal Kit-46
+Added Pin To Net: NetName=Relay 2 Pin=Centreal Kit-47
+Added Pin To Net: NetName=Relay 3 Pin=Centreal Kit-48
+Added Pin To Net: NetName=Relay 4 Pin=Centreal Kit-49
